@@ -1,0 +1,7 @@
+.order-summery-container{
+    background-color: rgb(250, 186, 129);
+    padding:20px;
+    height: 630px;
+    position: sticky;
+    top: 80px;
+}
